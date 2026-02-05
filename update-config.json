@@ -1,0 +1,32 @@
+{
+  "apps": [
+    {
+      "appName": "HIS",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/puesca/AppReleases/releases/download/v1.0.0/HIS.7z",
+      "releaseNotes": "Initial release",
+      "fileSize": 100
+    },
+    {
+      "appName": "PIS",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/puesca/AppReleases/releases/download/v1.0.0/HIS.7z",
+      "releaseNotes": "Initial release",
+      "fileSize": 100
+    },
+    {
+      "appName": "MMS",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/puesca/AppReleases/releases/download/v1.0.0/HIS.7z",
+      "releaseNotes": "Initial release",
+      "fileSize": 100
+    },
+    {
+      "appName": "FMS",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/puesca/AppReleases/releases/download/v1.0.0/HIS.7z",
+      "releaseNotes": "Initial release",
+      "fileSize": 100
+    }
+  ]
+}
